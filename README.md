@@ -103,9 +103,8 @@ Prompts are stored in `/prompts/` folder including:
 
 ## 👋 Credits
 
-Built by [Your Name] for **Aatelier** as part of the 2025 automation sprint.  
+Built by Alvita for **Aatelier** as part of the 2025 exploration sprint.  
 Stack: Airtable + OpenAI GPT API.  
 
 ---
 
-## 🆘 This backup was pushed in panic mode on June 28, 2025 — when Make.com started producing 30 ghost operations per run. 😂
